@@ -14,7 +14,7 @@ Este proyecto forma parte de una **Evaluación de Programación Orientada a Obje
      - **Población**: La población del país.
      - **Tipo de gobierno**: Se puede seleccionar entre "Democracia" o "Otro".
 
-   ![Registro Poblacional Internacional](https://i.postimg.cc/KR1wwdFD/Registro-Poblacional-Internacional.png)
+   [![Registro-Poblacional-Internacional.png](https://i.postimg.cc/4NPG7gSq/Registro-Poblacional-Internacional.png)](https://postimg.cc/KR1wwdFD)
 
 2. **Ciudades por País**:
    - Permite consultar las ciudades y su población para un país seleccionado.
